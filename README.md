@@ -5,8 +5,6 @@ Welcome to the Flutter Movie App repository, your go-to destination for discover
 
 ## Sneak Peek 📸
 <p align = "center">
-<img src="https://github.com/YugamPatel/FlutterMovieApp/blob/main/page1.png" width=350 height = 650 ></img>
-<img src="https://github.com/YugamPatel/FlutterMovieApp/blob/main/page2.png" width=350 height = 652 ></img>
 </p><br><br>
 ## What is Flutter Movie App?
 
